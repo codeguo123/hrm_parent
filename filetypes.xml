@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="inner" type="PLAIN_TEXT" />
       <mapping pattern="userSet" type="PLAIN_TEXT" />
+      <mapping pattern="article" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
