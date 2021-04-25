@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="B题目_操作" type="PLAIN_TEXT" />
       <mapping pattern="inner" type="PLAIN_TEXT" />
       <mapping pattern="userSet" type="PLAIN_TEXT" />
       <mapping pattern="article" type="PLAIN_TEXT" />
